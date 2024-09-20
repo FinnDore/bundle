@@ -1,4 +1,4 @@
-import './app.element.scss';
+import './app.element.css';
 
 export class AppElement extends HTMLElement {
   public static observedAttributes = [];
